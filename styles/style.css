@@ -1,6 +1,8 @@
 /*nav style */
 nav{
     display: flex;
+    align-items: center;
+    justify-content: space-between;
 
 }
 
@@ -11,6 +13,7 @@ nav li {
 
 nav > ul{
     display: flex;
+    align-items: center;
 }
 
 /* common shared style */
@@ -22,6 +25,11 @@ nav > ul{
 .btn-primary{
     border-radius: 5px;
     background: #FD6E0A;
+    border: 0px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 15px;
 }
 
 
