@@ -19,6 +19,19 @@ nav > ul{
 
 /* common shared style */
 
+.section-title{
+    color: #181818;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.section-description{
+    color: #757575;
+    text-align: center;
+    font-size: 18px;
+}
+
 .text-primary{
     color: #FD6E0A;
 }
@@ -86,4 +99,16 @@ body{
     margin-bottom: 30px;
     margin-top: 30px;
 
+}
+
+
+/* main section style */
+
+
+/* About section style */
+.about{
+    padding: 130px;
+    border-radius: 10px;
+    background: #FFF8F3;
+    margin: 130px 0px;
 }
